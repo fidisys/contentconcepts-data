@@ -47,7 +47,7 @@ teamMembers:
       writing and editing is an integral part of her work. She observed the
       English language problems faced by these researchers. She helped these
       researchers communicate effectively by teaching them ESL writing
-      techniques. She is a specialist in ESL writing and editing.
+      techniques. She is a specialist in ESL writing and editing
     image: ../assets/essay_editor.png
     themeColor: "#FFC6CD"
 ---
