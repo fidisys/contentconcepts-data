@@ -1,10 +1,10 @@
 ---
-author_image: cc-logo-new.png
+author_image: ./cc-logo-new.png
 author: ContentConcepts
 bio: Manuscript Editing Services
 title: How to Edit a Scientific Manuscript or Research Paper?
 date: 2020-10-30T18:30:00.000Z
-previewImage: how-to-edit-manuscript.png
+previewImage: ./how-to-edit-manuscript.png
 excerpt: "The audience for the research paper - the science community - is used
   to reading manuscripts in a certain format and style that follows a logical
   order. When editing your manuscript or your peer’s , review the manuscript to

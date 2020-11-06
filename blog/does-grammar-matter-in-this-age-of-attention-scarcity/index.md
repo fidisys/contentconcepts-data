@@ -1,10 +1,10 @@
 ---
-author_image: cc-logo-new-300.png
+author_image: ./cc-logo-new-300.png
 author: ContentConcepts
 bio: New-age editing & proofreading services. Truly affordable.
 title: Does Grammar Matter in This Age of Attention Scarcity?
 date: 2020-09-13T18:30:00.000Z
-previewImage: grammar_social_media_sms.png
+previewImage: ./grammar_social_media_sms.png
 excerpt: "Which is correct - “She’s younger than me” or “she’s younger than I” ?
   Is it ok to use whom in the place of who? "
 tags:

@@ -1,10 +1,10 @@
 ---
-author_image: cc-logo-new.png
+author_image: ./cc-logo-full-new.png
 author: ContentConcetps
 bio: English Editing & Proofreading Services
 title: 10 Key Features of Top Manuscript Editing & Proofreading Services
 date: 2020-09-21T18:30:00.000Z
-previewImage: top_editing_services.png
+previewImage: ./top_editing_services.png
 excerpt: Struggling to find the right manuscript editing services in India? Here
   are some tips to identify and choose the English editing & proofreading
   services.
