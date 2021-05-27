@@ -21,10 +21,10 @@ seo:
     - manuscriptwriting
     - manuscriptediting
 ---
-"Writing is an integral part of science at every stage; it is how we outline a project idea, communicate with collaborators, draft a grant application, synthesize our insights into a manuscript, and share science beyond academia. " writes [Kathleen E. Grogan](https://esajournals.onlinelibrary.wiley.com/action/doSearch?ContribAuthorStored=Grogan%2C+Kathleen+E) in a communucation to ESAJournal. Read more about making scientific writing easier, [here](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/bes2.1800)
+"Writing is an integral part of science at every stage; it is how we outline a project idea, communicate with collaborators, draft a grant application, synthesize our insights into a manuscript, and share science beyond academia. " writes [Kathleen E. Grogan](https://esajournals.onlinelibrary.wiley.com/action/doSearch?ContribAuthorStored=Grogan%2C+Kathleen+E) in a communication to ESAJournal. 
 
 
 
-
+Read more about making scientific writing easier, [here](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/bes2.1800)
 
 ![](grammar_social_media_sms.png)
