@@ -1,6 +1,6 @@
 ---
 author_image: cc-logo-new-300.png
-author: ContentConcepts
+author: ContentConcept
 bio: Manuscript editing service at affordable prices
 title: APA 7  Format for Research Paper, Manuscript and Thesis
 date: 2020-12-03T18:30:00.000Z
