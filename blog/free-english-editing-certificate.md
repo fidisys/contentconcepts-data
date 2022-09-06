@@ -18,13 +18,13 @@ seo:
     - certificate
     - editing-certificate
 ---
-[ContentConcepts](https://contentconcepts.in/) provides free English Editing Certificate
+[ContentConcepts](https://contentconcepts.in/) provides free English Editing Certificate when you select our manuscript editing service. This certificate is accepted by all major international journals.
 
 When you submit your manuscript to us for[ manuscript editing](https://contentconcepts.in/services/academic_editing), or [English editing](https://contentconcepts.in/services/academic_editing/english_editing) you can get a free English editing certificate. 
 
-**Submit your document [here](https://contentconcepts.in/pricing/) to get the editing certificate.**
+### **Submit your document [here](https://contentconcepts.in/pricing/) to get the free editing certificate.**
 
-![](editing-certificate-sample-2.png)
+![English editing certificate free](editing-certificate-sample-2.png "English editing certificate for research manuscript")
 
 If you are from non-English speaking country, usually most of the journals require the authors, to submit [English language editing](https://contentconcepts.in/services/academic_editing/english_editing) certificate.
 
