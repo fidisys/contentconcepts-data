@@ -4,6 +4,7 @@ navTitle: Best Selling Service on our site
 navIndex: 7
 highlight: "Best Selling Service on our site"
 message: "Not happy with edit? <span>100% refund without any condition</span>"
+quoteTitle: Professional English Editing for any Research Paper
 priceCard:
   {
     pricing:
