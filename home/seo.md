@@ -1,6 +1,5 @@
 ---
-title: Manuscript editing services, proofreading services, Manuscript editing
-  services free
+title: Manuscript editing services, proofreading services, Free Editing sample
 description: Manuscript editing and proofreading services for research paper.
   Free editing for first, starts $0.020 (INR 1.3) per word )
 keywords:
