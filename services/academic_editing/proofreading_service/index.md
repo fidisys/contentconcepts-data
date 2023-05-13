@@ -29,7 +29,7 @@ nativeEditorSecToggle: show
 editorSecCards:
   - name: Ross Taylor
     designation: Native English & Manuscript Proofreader
-    description: David is a skilled native English editor with a background in
+    description: Ross is a skilled native English editor with a background in
       linguistics and engineering. He specializes in science, medical, and
       technology manuscripts and has a certification in teaching English as a
       foreign language.
@@ -192,25 +192,6 @@ editingCard:
     editingCardLinks:
       - title: Sub link
         description: Sublin
-features:
-  - id: 1
-    title: Manuscript Editing
-    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
-  - id: 2
-    title: Thesis Proofreading
-    link: https://contentconcepts.in/services/academic_editing/thesis_editing
-  - id: 3
-    title: English Language Proofreading
-    link: https://contentconcepts.in/services/academic_editing/english_editing
-  - id: 4
-    title: Scientific Manuscript Editing
-    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
-  - id: 5
-    title: Plagiarism Checker
-    link: https://contentconcepts.in/services/plagiarism_correction
-  - title: Manuscript Rewriting
-    id: 6
-    link: https://contentconcepts.in/services/publication_support/manuscript_rewriting
 message: Not happy with proofreading? <span>100% refund without any condition</span>
 cardImage: proofreading_services.jpeg
 flashBannerBottom:
@@ -251,7 +232,6 @@ faq:
       question: Is my information secure with you?
       answer: "Yes, our website is secure in handling documents as well as for
         payment. Our editors and proofreaders have signed NDA. "
-key: resume_editing
 parentType: academic
 priceCard:
   pricing:
@@ -261,6 +241,26 @@ priceCard:
       usd: <span>₹1.30</span>/word
   tagContent: ASK FOR FREE PROOFREADING SAMPLE
   content: Get English editing certificate after the job.
+features:
+  - id: 1
+    title: Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
+  - id: 2
+    title: Thesis Proofreading
+    link: https://contentconcepts.in/services/academic_editing/thesis_editing
+  - id: 3
+    title: English Language Proofreading
+    link: https://contentconcepts.in/services/academic_editing/english_editing
+  - id: 4
+    title: Scientific Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
+  - id: 5
+    title: Plagiarism Checker
+    link: https://contentconcepts.in/services/plagiarism_correction
+  - title: Manuscript Rewriting
+    id: 6
+    link: https://contentconcepts.in/services/publication_support/manuscript_rewriting
+key: resume_editing
 seo:
   title: Proofreading services, best price, top rated online 4.8/5, Price starts
     $0.018 per word
