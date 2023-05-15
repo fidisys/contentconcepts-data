@@ -304,7 +304,7 @@ If you are looking for affordable yet top-quality academic manuscript editing se
 
 Our team of highly [experienced editors](https://contentconcepts.com/about/) are well-versed in a wide range of academic disciplines, ensuring that your work is polished, refined, and ready for publication.
 
-![](academic-editing-services.png)
+![Academic Editing Services](academic-editing-services.png "Academic Editing Services")
 
 ## **Comprehensive Editing Services for Research Papers and Scholarly Articles**
 
