@@ -1,46 +1,80 @@
 ---
-title: Plagiarism Editing
 navTitle: Plagiarism Editing
-position: "2"
+navIndex: 2
+title: Plagiarism Editing
 highlight: Reduce similarity & risk
-message: Not happy with edit? <span>100% refund without any condition</span>
-features:
-  - id: 1
-    title: Plagiarism check by both software and human editors
-  - id: 2
-    title: Recommendations to rewrite similar text
-  - id: 3
-    title: Plagiarism editors assist you in rewriting problem areas
-  - id: 4
-    title: Fast & Affordable work
-  - id: 5
-    title: Free followup support for further editing
-priceCard:
-  pricing:
-    title: Starts from
-    price:
-      inr: <span>INR 3</span>/word
-      usd: <span>$0.06</span>/word
-  tagContent: Tech + Human powered solution
-  content: Significantly reduced similarity results with report
-editingSample:
-  title: Editing Sample
-  samples:
+serviceHeader:
+  decription: Are you concerned that your manuscript or research paper may be
+    rejected due to plagiarism or a high similarity score? We offer professional
+    plagiarism checks using leading industry tools such as Turnitin and
+    Plagiarism Checker X. Our manuscript editors can assist you in reducing
+    plagiarism by providing manuscript rewriting, paraphrasing, and editing
+    services.  We utilize premium online plagiarism detection software that
+    provides us with accurate results. If you choose our Plagiarism Editing
+    service, we will conduct a free plagiarism check and provide you with a
+    plagiarism report before and after the check.  If you opt for our manuscript
+    editing or English language editing services, you can also request a
+    plagiarism check as an add-on service. We will provide you with a plagiarism
+    report in addition to the edited manuscript.
+  serviceLink:
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Affordable
+        plagiarism check and rewriting</a>
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated
+        editing service on Google - 4.9</a>
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/free-english-editing-certificate/">Free
+        editing Certificate</a>
+editorSecTitle: Our Plagiarism Check Editors
+nativeEditorSecToggle: show
+editorSecCards:
+  - name: Ross Taylor
+    designation: Native English & Manuscript Editor
+    description: Ross is a skilled native English editor with a background in
+      linguistics and engineering. He specializes in science, medical, and
+      technology manuscripts and has a certification in teaching English as a
+      foreign language.
+    image: manuscript-editor.jpeg
+  - name: "Alan Wichelman "
+    designation: Senior Editor - Business, Management & Marketing
+    description: " Meet Alan, our native English editor who ensures all corporate
+      documents and correspondence are flawlessly written. As a licensed
+      attorney in the United States, he also teaches non-American lawyers
+      reader-friendly, plain English drafting skills"
+    image: manucript-editor-native.jpeg
+flashBannerTop:
+  quoteTitle: Top Plagiarism Software+Editor
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteToggle: show
+serviceProcess:
+  title: How it works?
+  steps:
     - id: 1
-      title: Copy Editing
-      description: Line by line editing for language, readability and technical
-        learning improvement
-      image: ./substantive_editing.png
+      order: "01"
+      title: Submit Manuscript
+      description: Customer submits manuscript via our Request for quote page.
+      themeColor: "#98ECA6"
     - id: 2
-      title: Substantive Editing
-      description: Line by line editing for language, readability and technical
-        learning improvement
-      image: ./substantive_editing.png
+      order: "02"
+      title: Receive Quote
+      description: After receiving the manuscript, ContentConcepts sends price quote.
+      themeColor: "#F5DA7D"
     - id: 3
-      title: Developmental Editing
-      description: Line by line editing for language, readability and technical
-        learning improvement
-      image: ./substantive_editing.png
+      order: "03"
+      title: Confirm Order
+      description: After payment is made by the customer, ContentConcepts sends
+        confirmation of payment.
+      themeColor: "#98E5E0"
+    - id: 4
+      order: "04"
+      title: Edit & Return
+      description: CC assigns the right editor who edits and sends the edited document
+        back to the customer.
+      themeColor: "#FFABAB"
 editingHighlights:
   title: Benefits of our Plagiarism Editing service
   highlights:
@@ -67,31 +101,37 @@ editingHighlights:
       description: Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
-serviceProcess:
-  title: How it works?
-  steps:
+flashBannerCenter:
+  quoteTitle: GET FREE PLAGIARISM REPORT
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteToggle: show
+connectToolsTitle: no
+connectToolsDec: no
+connectToolsToggle: no
+message: Not happy with edit? <span>100% refund without any condition</span>
+cardImage: plagiarism_check.jpeg
+flashBannerBottom:
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteTitle: Reduce similarity, get published!
+  quoteToggle: show
+editingSample:
+  title: Editing Sample
+  samples:
     - id: 1
-      order: "01"
-      title: Submit Manuscript
-      description: Customer submits manuscript via our Request for quote page.
-      themeColor: "#98ECA6"
+      title: Copy Editing
+      description: Line by line editing for language, readability and technical
+        learning improvement
+      image: ./substantive_editing.png
     - id: 2
-      order: "02"
-      title: Receive Quote
-      description: After receiving the manuscript, ContentConcepts sends price quote.
-      themeColor: "#F5DA7D"
+      title: Substantive Editing
+      description: Line by line editing for language, readability and technical
+        learning improvement
+      image: ./substantive_editing.png
     - id: 3
-      order: "03"
-      title: Confirm Order
-      description: After payment is made by the customer, ContentConcepts sends
-        confirmation of payment.
-      themeColor: "#98E5E0"
-    - id: 4
-      order: "04"
-      title: Edit & Return
-      description: CC assigns the right editor who edits and sends the edited document
-        back to the customer.
-      themeColor: "#FFABAB"
+      title: Developmental Editing
+      description: Line by line editing for language, readability and technical
+        learning improvement
+      image: ./substantive_editing.png
 faq:
   title: Frequently Asked Questions
   questions:
@@ -104,8 +144,28 @@ faq:
       question: Is my information secure with you?
       answer: We can edit as per two English language styles – American English and
         British English.
-key: plagiarism_editing
 parentType: technical
+position: "2"
+priceCard:
+  pricing:
+    title: Starts from
+    price:
+      inr: <span>INR 3</span>/word
+      usd: <span>$0.06</span>/word
+  tagContent: Tech + Human powered solution
+  content: Significantly reduced similarity results with report
+features:
+  - id: 1
+    title: Plagiarism check by both software and human editors
+  - id: 2
+    title: Recommendations to rewrite similar text
+  - id: 3
+    title: Plagiarism editors assist you in rewriting problem areas
+  - id: 4
+    title: Fast & Affordable work
+  - id: 5
+    title: Free followup support for further editing
+key: plagiarism_editing
 seo:
   title: 👀 ContentConcepts - Plagiarism editing, Plagiarism rewriting, Plagiarism
     proofreading services in India
