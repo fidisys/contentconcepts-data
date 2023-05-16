@@ -105,9 +105,9 @@ flashBannerCenter:
   quoteTitle: GET FREE PLAGIARISM REPORT
   quoteLink: https://contentconcepts.com/pricing/
   quoteToggle: show
-connectToolsTitle: no
-connectToolsDec: no
-connectToolsToggle: no
+connectToolsTitle: ""
+connectToolsDec: ""
+connectToolsToggle: ""
 message: Not happy with edit? <span>100% refund without any condition</span>
 cardImage: plagiarism_check.jpeg
 flashBannerBottom:
