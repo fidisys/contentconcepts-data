@@ -10,6 +10,12 @@ categories:
     title: Plagiarism Removal & Correction
     value: plagiarismcheck
   - id: 3
+    title: Content Writing
+    value: contentwriting
+  - id: 4
+    title: Document Formatting
+    value: documentformatting
+  - id: 5
     title: Others
     value: others
 ---
