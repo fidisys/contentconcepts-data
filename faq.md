@@ -3,8 +3,10 @@ title: Frequently Asked Questions
 questions:
   - id: 1
     question: How do I get started with manuscript editing service?
-    answer: You can use the Get Quote form to send the document or email us. Our
-      team will get back to you with quote and other details
+    answer: To submit your document and get a quote, please click on the <a
+      href="https://contentconcepts.com/pricing/">Get Quote</a> button on our
+      website. Follow the process to submit your document, make the payment, and
+      complete your order.
   - id: 2
     question: Is my information secure with you?
     answer: Definitely. Our site is built with superior technology and is most
