@@ -2,7 +2,8 @@
 author_image: cc-logo-new.png
 author: ContentConcepts
 bio: English Editing and Proofreading Services
-title: "Copy Editing for Websites: A Comprehensive Guide"
+title: "Copy Editing for Websites: What is it and how it is different from
+  proofreading?"
 date: 2023-05-19T18:30:00.000Z
 previewImage: website_content_development.jpeg
 excerpt: Good copywriting offers numerous benefits for a website, including
