@@ -4,14 +4,12 @@ navIndex: 3
 title: Scientific Manuscript Editing
 highlight: by PhD & Native English Editors
 serviceHeader:
-  decription: Our scientific editing service is like a lab where we experiment
-    with the right mix of clarity, brevity, and academic rigor to create a
-    winning formula for your research paper or manuscript. With our affordable
-    and trusted service, We'll go beyond the surface level and delve deep into
-    the core of your research, fixing grammar and punctuation errors, refining
-    the language and style, and ensuring that your work is truly exceptional.
-    Here are more reasons to choose us for high-quality scientific editing that
-    will make your work stand out.
+  decription: Imagine your manuscript as a living entity, brimming with potential
+    and ready to make its mark on the medical world. But just like the human
+    body, it may have areas that require meticulous attention and delicate
+    precision. This is where our team of expert medical editors steps in, armed
+    with their metaphorical scalpels and their unwavering commitment to
+    excellence.
   serviceLink:
     - title: ""
       link: <a
