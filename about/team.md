@@ -79,4 +79,44 @@ teamMembers:
       produce their finest work.
     image: ../assets/heather_manuscript_editor.png
     themeColor: "#FFC6CD"
+  - id: 8
+    description: Carole is a meticulous medical editor with standout professional
+      and research experience in the United States, and Europe. She has
+      conducted research at prestigious academic institutions in North America,
+      including Harvard Medical School, Columbia University and the University
+      of North Carolina.
+    name: "Dr Carole J "
+    role: "Medical Editor  "
+    image: ../assets/carole_medical_editor.jpeg
+    themeColor: "#ACADED"
+  - id: 9
+    description: Phd in Pharmacology and has over 20 years of experience as a
+      scientist at a leading pharmaceuticals lab in India, where she gained
+      extensive writing and editing experience. She specializes in ESL writing
+      and editing and has helped researchers communicate effectively by teaching
+      them ESL writing techniques.
+    name: Dr Monika Mukherjee
+    role: "Medical & ESL Editor  "
+    image: ../assets/monika_medical_manuscript_editor.jpeg
+    themeColor: "#ACADED"
+  - name: Dr Katharine Hughes
+    id: 10
+    role: Scientific Editor - Life Science Biosciences, Bio-Engineering
+    description: Scientific Editor - Life Science Biosciences, Bio-Engineering  With
+      25+ years of experience, Dr Katharine is an expert in editing academic
+      papers, theses, and dissertations. She has edited 20,000+ pages,
+      specializing in ESL documents and a broad range of fields, including
+      medical sciences, IT, and bioinformatics.
+    image: ../assets/scientific-editor.jpeg
+    themeColor: "#ACADED"
+  - id: 11
+    description: " Dr Ashraf has a doctoral degree in Biostatistics and 16 years of
+      academic experience. He has 45+ research publications to his credit and is
+      a certified editor by Board of Lifesciences. Ashraf has edited thousands
+      of pages of research papers and thesis with meticulous attention to
+      detail."
+    name: Dr Ashraf Ali
+    role: "Scientific & Statistics Editor "
+    image: ../assets/ashraf_bio_editor.jpeg
+    themeColor: "#ACADED"
 ---
