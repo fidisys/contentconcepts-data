@@ -27,43 +27,43 @@ seo:
 ---
 At ContentConcepts, we take pride in our team of exceptional editors who are dedicated to enhancing the quality of your written content. Each editor has been carefully selected for their expertise and experience in specific fields. Allow us to introduce our talented editors:
 
-### Ross Taylor - Native English & Manuscript Editor
+### Ross Taylor - Native English & [Manuscript Editor](https://contentconcepts.in/services/academic_editing/manuscript_editing/)
 
 ![Manuscript Editor](manuscript-editor.jpeg "Manuscript Editor")
 
 Ross is a highly skilled [native English editor](https://contentconcepts.in/services/academic_editing/english_editing/) with a background in linguistics and engineering. Specializing in science, medical, and technology manuscripts, Ross brings a meticulous approach to editing. With a certification in teaching English as a foreign language, he ensures clarity and precision in your work.
 
-### Alan Wichelman - Native English Editor - Business, Management & Marketing
+### Alan Wichelman - [Native English Editor](https://contentconcepts.in/services/academic_editing/english_editing/) - Business, Management & Marketing
 
 ![native English editor](manucript-editor-native.jpeg "Native English Editor")
 
 Meet Alan, our native English editor who excels in flawlessly written corporate documents and correspondence. As a licensed attorney, he also imparts reader-friendly, plain English drafting skills to non-American lawyers. Alan's expertise in business, management, and marketing guarantees exceptional editing results.
 
-### Dr. Carole J - Manuscript Editor - Life Sciences & Medicine (Biology Editor)
+### Dr. Carole J - [Manuscript Editor](https://contentconcepts.in/services/academic_editing/manuscript_editing/) - Life Sciences & Medicine (Biology Editor)
 
 ![Medical editor](carole_medical_editor.jpeg "Medical editor")
 
 Dr. Carole is a meticulous [medical editor](https://contentconcepts.in/services/academic_editing/medical_editing/) with outstanding professional and research experience across prestigious academic institutions. Having conducted research at renowned institutions like Harvard Medical School and Columbia University, her expertise in life sciences and medicine ensures the highest quality editing for your manuscripts.
 
-### Dr. Katharine Hughes - Scientific Editor - Life Science Biosciences, Bio-Engineering
+### Dr. Katharine Hughes - [Scientific Editor](https://contentconcepts.com/services/academic_editing/scientific_manuscript_editing/) - Life Science Biosciences, Bio-Engineering
 
 ![scientific editor](scientific-editor.jpeg "Scientific Editor")
 
 With over 25 years of experience, Dr. Katharine is a seasoned expert in [scientific editing](https://contentconcepts.com/services/academic_editing/scientific_manuscript_editing/) academic papers, theses, and dissertations. Specializing in ESL documents and a wide range of fields, including medical sciences, IT, and bioinformatics, she brings a wealth of knowledge to ensure accuracy and clarity in scientific writing.
 
-### Dr. Ashraf - Scientific & Statistics Editor (Medical Paper Editor)
+### Dr. Ashraf - Scientific & Statistics Editor ([Medical Paper Editor](https://contentconcepts.in/services/academic_editing/medical_editing/))
 
 ![Medical Editor](ashraf_bio_editor.jpeg "Medical Editor")
 
 Dr. Ashraf holds a doctoral degree in Biostatistics and has extensive academic experience  in [editing medical manuscript](https://contentconcepts.in/services/academic_editing/medical_editing/). With numerous research publications and meticulous attention to detail, he is a certified editor and ensures the highest standards in editing medical papers and research with statistical analysis.
 
-### Dr. Monika Mukherjee - Scientific Editor - Biochemistry & Pharmacology
+### Dr. Monika Mukherjee - [Scientific Editor](https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing/) - Biochemistry & Pharmacology
 
 ![Scientific editor](monika_medical_manuscript_editor.jpeg "Scientific editor")
 
 Dr. Monika is a highly experienced scientist with a Ph.D. in Pharmacology and over 20 years of expertise in leading pharmaceutical labs. Specializing in ESL writing and [medical editing,](https://contentconcepts.in/services/academic_editing/medical_editing/) she brings a deep understanding of biochemistry and pharmacology to elevate the quality of scientific content.
 
-### Dr. Athira, Ph.D - Thesis Editor - Biological Sciences
+### Dr. Athira, Ph.D - [Thesis Editor](https://contentconcepts.in/services/academic_editing/thesis_editing/) - Biological Sciences
 
 ![Thesis editor](thesis-editor.jpeg "Thesis editor")
 
