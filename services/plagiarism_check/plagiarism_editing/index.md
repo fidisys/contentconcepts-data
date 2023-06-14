@@ -50,6 +50,7 @@ flashBannerTop:
   quoteTitle: Top Plagiarism Software+Editor
   quoteLink: https://contentconcepts.com/pricing/
   quoteToggle: show
+editingToggle: show
 serviceProcess:
   title: How it works?
   steps:
@@ -108,6 +109,10 @@ flashBannerCenter:
 connectToolsTitle: ""
 connectToolsDec: ""
 connectToolsToggle: ""
+editingCard:
+  - title: Best Plagiarism Editing Service
+    backgroundColor: " #872657 "
+    image: plagiarism_check.jpeg
 message: Not happy with edit? <span>100% refund without any condition</span>
 cardImage: plagiarism_check.jpeg
 flashBannerBottom:
@@ -132,6 +137,7 @@ editingSample:
       description: Line by line editing for language, readability and technical
         learning improvement
       image: ./substantive_editing.png
+  toggle: show
 faq:
   title: Frequently Asked Questions
   questions:
@@ -144,6 +150,7 @@ faq:
       question: Is my information secure with you?
       answer: We can edit as per two English language styles – American English and
         British English.
+  toggle: show
 parentType: technical
 position: "2"
 priceCard:
@@ -167,8 +174,8 @@ features:
     title: Free followup support for further editing
 key: plagiarism_editing
 seo:
-  title: 👀 ContentConcepts - Plagiarism editing, Plagiarism rewriting, Plagiarism
-    proofreading services in India
+  title: Plagiarism editing, Plagiarism rewriting, Plagiarism proofreading
+    services in India
   description: We check for plagiarised content and edit or rewrite the manuscript
     based on similarity or plagiarism report.
   keywords:
@@ -178,5 +185,12 @@ seo:
     - Plagiarism checker
     - Plagiarism remover
 ---
+We totally get it – plagiarism is a big deal, especially when you're knee-deep in research or working on those writing projects. It's easy to accidentally slip up and use someone else's words or ideas without giving credit where it's due, even if you're being super careful.
 
-Worried your manuscript might be rejected for plagiarism? Our plagiarism checker services provide you detailed report on your paper and recommendations to rewrite your paper to reduce similarity. Our [manuscript editors](https://contentconcepts.in/about/) help you fix the problem areas,[ reduce similarity](https://contentconcepts.in/services/plagiarism_check/similarity_check) and improve the English language and flow of the paper
+But fret not, because that's where we come to the rescue! Our squad of expert editors is all about making sure your work is legit and properly cited. We've got fancy plagiarism detection software that sniffs out any potential issues, and together, we'll tweak your masterpiece to ensure all your sources are accurately acknowledged.
+
+Our mission is simple – help you dodge the not-so-fun consequences of unintentional plagiarism. We're talking about things like losing credibility, damaging your hard-earned reputation, or even facing legal trouble. With our plagiarism editing service, you can kick back and relax knowing your work is 100% original, properly cited, and ready to make waves in the world.
+
+Thanks a bunch for considering our service! We can't wait to team up with you and help you rock those academic and professional goals. 
+
+Check out our [plagiarism editing service](https://contentconcepts.com/services/plagiarism_check/plagiarism_editing/) to learn more!
