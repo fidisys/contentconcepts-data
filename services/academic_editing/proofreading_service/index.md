@@ -1,6 +1,6 @@
 ---
 navTitle: Proofreading Service
-navIndex: 8
+navIndex: 4
 title: Proofreading Services
 highlight: Native English, Best price, no rush fee
 serviceHeader:
