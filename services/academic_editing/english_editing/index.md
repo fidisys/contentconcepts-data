@@ -275,7 +275,7 @@ features:
     link: https://contentconcepts.in/services/plagiarism_correction
 key: english_editing
 seo:
-  title: English language editing and proofreading services
+  title: English editing services in India
   description: English language manuscript editing and proofreading services in
     India. 💲 Truly affordable and top-quality services for manuscript authors
     and publishers.
