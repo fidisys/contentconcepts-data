@@ -4,24 +4,25 @@ navIndex: 5
 title: Medical Editing Service
 highlight: PhD & MD Editors, Native English
 serviceHeader:
-  decription: Medical editing is like a surgery, where we carefully dissect your
-    manuscript, identify the problem areas, and precisely correct them to ensure
-    that your work is in optimal health and ready for publication. Our team of
-    expert medical editors hold PhD and MD degrees, have a commitment to the
-    highest quality, and are here to provide you with unparalleled medical
-    editing service for all your medical writing needs.
+  decription: Medical editing is like performing surgery on your manuscript. Our
+    expert team of medical editors, with their PhD and MD degrees, meticulously
+    analyze your work, identifying any problem areas, and precisely fixing them
+    to ensure it's in the best possible shape for publication. We are committed
+    to delivering the highest quality results and are here to provide you with
+    an exceptional medical editing service for all your medical writing needs.
+    Get in touch with us today and let us help your work shine!
   serviceLink:
     - title: ""
       link: <a
-        href="https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Affordable
+        href="https://contentconcepts.in/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Affordable
         medical manuscript editing</a>
     - title: ""
       link: <a
-        href="https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated
+        href="https://contentconcepts.in/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated
         medical editing service on Google - 4.9</a>
     - title: ""
       link: <a
-        href="https://contentconcepts.com/blog/free-english-editing-certificate/">Free
+        href="https://contentconcepts.in/blog/free-english-editing-certificate/">Free
         English Editing Certificate</a>
 btnTxt:
   sample: Medical Editing Sample
