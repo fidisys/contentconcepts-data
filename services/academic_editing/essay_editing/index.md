@@ -259,7 +259,7 @@ features:
     link: https://contentconcepts.in/services/academic_editing/thesis_editing
 key: essay_editing
 seo:
-  title: Admission essay editing services in India. Essay editor, Essay editing sample
+  title: Essay editing service in India
   description: Essay editing and proofreading services, Essay editor in India at
     affordable prices. One of the best and cheaper essay editing services in
     India.
