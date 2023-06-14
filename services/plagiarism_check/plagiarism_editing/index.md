@@ -1,60 +1,58 @@
 ---
 navTitle: Plagiarism Editing
-navIndex: 1
+navIndex: 2
 title: Plagiarism Editing
-highlight: Plagiarism Report & Rewriting Support
+highlight: Reduce similarity & risk
 serviceHeader:
-  decription: Concerned about unintentional plagiarism in your manuscript leading
-    to rejection? Our plagiarism checker services provide a detailed report on
-    your paper and our editors help rewrite the paper to reduce similarity. Our
-    manuscript editors work with you to fix problem areas, improve English
-    language and flow, and ensure your work is original. Trust us to help you
-    avoid unintended plagiarism and achieve your publication goals. And here are
-    more reasons to select our plagiarism removal service
+  decription: Are you concerned that your manuscript or research paper may be
+    rejected due to plagiarism or a high similarity score? We offer professional
+    plagiarism checks using leading industry tools such as Turnitin and
+    Plagiarism Checker X. Our manuscript editors can assist you in reducing
+    plagiarism by providing manuscript rewriting, paraphrasing, and editing
+    services.  We utilize premium online plagiarism detection software that
+    provides us with accurate results. If you choose our Plagiarism Editing
+    service, we will conduct a free plagiarism check and provide you with a
+    plagiarism report before and after the check.  If you opt for our manuscript
+    editing or English language editing services, you can also request a
+    plagiarism check as an add-on service. We will provide you with a plagiarism
+    report in addition to the edited manuscript.
   serviceLink:
     - title: ""
       link: <a
-        href="https://contentconcepts.com/blog/online-plagiarism-checker-how-does-plagiarism-detection-software-tool-work/">Free
-        plagiarism checker report</a>
-    - title: ""
-      link: <a
         href="https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Affordable
-        plagiarism editing</a>
+        plagiarism check and rewriting</a>
     - title: ""
       link: <a
         href="https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated
         editing service on Google - 4.9</a>
-editorSecTitle: Our Manuscript Editors
+    - title: ""
+      link: <a
+        href="https://contentconcepts.com/blog/free-english-editing-certificate/">Free
+        editing Certificate</a>
+editorSecTitle: Our Plagiarism Check Editors
 nativeEditorSecToggle: show
 editorSecCards:
   - name: Ross Taylor
     designation: Native English & Manuscript Editor
-    description: David is a skilled native English editor with a background in
+    description: Ross is a skilled native English editor with a background in
       linguistics and engineering. He specializes in science, medical, and
       technology manuscripts and has a certification in teaching English as a
       foreign language.
-    image: editor2_male-copy.jpeg
-  - name: Alan Wichelman
-    designation: "Senior Editor - Business, Management & Management "
-    description: Meet Alan, our native English editor who ensures all corporate
+    image: manuscript-editor.jpeg
+  - name: "Alan Wichelman "
+    designation: Senior Editor - Business, Management & Marketing
+    description: " Meet Alan, our native English editor who ensures all corporate
       documents and correspondence are flawlessly written. As a licensed
       attorney in the United States, he also teaches non-American lawyers
-      reader-friendly, plain English drafting skills
+      reader-friendly, plain English drafting skills"
     image: manucript-editor-native.jpeg
-  - name: Dr Carole J
-    designation: Senior Editor - Life Sciences & Medicine
-    description: Carole is a meticulous medical editor with standout professional
-      and research experience in the United States, and Europe. She has
-      conducted research at prestigious academic institutions in North America,
-      including Harvard Medical School, Columbia University and the University
-      of North Carolina.
-    image: carole_medical_editor.jpeg
 flashBannerTop:
-  quoteTitle: Say goodbye to plagiarism, hello to originality
+  quoteTitle: Top Plagiarism Software+Editor
+  quoteLink: https://contentconcepts.com/pricing/
   quoteToggle: show
-  quoteLink: https://contentconcepts.com/blog/online-plagiarism-checker-how-does-plagiarism-detection-software-tool-work/
+editingToggle: show
 serviceProcess:
-  title: How Plagiarism Check ordering works?
+  title: How it works?
   steps:
     - id: 1
       order: "01"
@@ -104,30 +102,22 @@ editingHighlights:
       description: Your documents as wells as payment is handled by our secure website
         which has passed the best level of security testing in the industry.
       image: ./transaction.svg
-  toggle: show
 flashBannerCenter:
-  quoteTitle: Make your manuscript shine like a diamond
-  quoteLink: https://contentconcepts.com/pricing/#pricing
-  quoteToggle: yes
-connectToolsTitle: Benefits of our Plagiarism Editing service
-connectToolsDec: Benefits of our Plagiarism Editing service
-connectToolsToggle: No
-features:
-  - id: 1
-    title: Plagiarism check by both software and human editors
-  - id: 2
-    title: Recommendations to rewrite similar text
-  - id: 3
-    title: Plagiarism editors assist you in rewriting problem areas
-  - id: 4
-    title: Fast & Affordable work
-  - id: 5
-    title: Free followup support for further editing
+  quoteTitle: GET FREE PLAGIARISM REPORT
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteToggle: show
+connectToolsTitle: ""
+connectToolsDec: ""
+connectToolsToggle: ""
+editingCard:
+  - title: Best Plagiarism Editing Service
+    backgroundColor: " #872657 "
+    image: plagiarism_check.jpeg
 message: Not happy with edit? <span>100% refund without any condition</span>
 cardImage: plagiarism_check.jpeg
 flashBannerBottom:
-  quoteTitle: Polish your manuscript to perfection
-  quoteLink: https://contentconcepts.com/pricing/#pricing
+  quoteLink: https://contentconcepts.com/pricing/
+  quoteTitle: Reduce similarity, get published!
   quoteToggle: show
 editingSample:
   title: Editing Sample
@@ -161,8 +151,8 @@ faq:
       answer: We can edit as per two English language styles – American English and
         British English.
   toggle: show
-key: plagiarism_editing
 parentType: technical
+position: "2"
 priceCard:
   pricing:
     title: Starts from
@@ -171,8 +161,21 @@ priceCard:
       usd: <span>$0.06</span>/word
   tagContent: Tech + Human powered solution
   content: Significantly reduced similarity results with report
+features:
+  - id: 1
+    title: Plagiarism check by both software and human editors
+  - id: 2
+    title: Recommendations to rewrite similar text
+  - id: 3
+    title: Plagiarism editors assist you in rewriting problem areas
+  - id: 4
+    title: Fast & Affordable work
+  - id: 5
+    title: Free followup support for further editing
+key: plagiarism_editing
 seo:
-  title: Plagiarism editing, Plagiarism rewriting, Plagiarism removal
+  title: Plagiarism editing, Plagiarism rewriting, Plagiarism proofreading
+    services in India
   description: We check for plagiarised content and edit or rewrite the manuscript
     based on similarity or plagiarism report.
   keywords:
@@ -182,12 +185,12 @@ seo:
     - Plagiarism checker
     - Plagiarism remover
 ---
-Welcome to our plagiarism editing service, designed to help authors and researchers avoid unintentional plagiarism.
+We totally get it – plagiarism is a big deal, especially when you're knee-deep in research or working on those writing projects. It's easy to accidentally slip up and use someone else's words or ideas without giving credit where it's due, even if you're being super careful.
 
-We understand that plagiarism is a serious concern for anyone working on research or writing projects. Accidental plagiarism can be especially tricky to identify, and even the most careful writers can inadvertently use someone else's words or ideas without proper attribution.
+But fret not, because that's where we come to the rescue! Our squad of expert editors is all about making sure your work is legit and properly cited. We've got fancy plagiarism detection software that sniffs out any potential issues, and together, we'll tweak your masterpiece to ensure all your sources are accurately acknowledged.
 
-That's where our service comes in. Our team of expert editors is dedicated to helping you ensure that your work is original and properly cited. We use sophisticated plagiarism detection software to identify any potential issues, and we work with you to revise your work and make sure that all sources are properly cited.
+Our mission is simple – help you dodge the not-so-fun consequences of unintentional plagiarism. We're talking about things like losing credibility, damaging your hard-earned reputation, or even facing legal trouble. With our plagiarism editing service, you can kick back and relax knowing your work is 100% original, properly cited, and ready to make waves in the world.
 
-Our goal is to help you avoid the negative consequences of unintentional plagiarism, including loss of credibility, damage to your reputation, and even legal action. With our plagiarism editing service, you can rest assured that your work is original, properly cited, and ready to be shared with the world.
+Thanks a bunch for considering our service! We can't wait to team up with you and help you rock those academic and professional goals. 
 
-Thank you for considering our service, and we look forward to helping you achieve your academic and professional goals.
+Check out our [plagiarism editing service](https://contentconcepts.com/services/plagiarism_check/plagiarism_editing/) to learn more!
