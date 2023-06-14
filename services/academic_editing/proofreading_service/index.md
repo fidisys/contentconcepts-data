@@ -261,7 +261,7 @@ features:
   - title: Manuscript Rewriting
     id: 6
     link: https://contentconcepts.in/services/publication_support/manuscript_rewriting
-key: proofreading_service
+key: resume_editing
 seo:
   title: Proofreading services in India -Top rated and affordable
   description: Manuscript proof reading service by PhD and native English
