@@ -327,7 +327,7 @@ features:
     title: Review and re-edit multiple times
 key: medical_editing
 seo:
-  title: Medical editing services, medical proofreading services
+  title: Medical editing services, medical proofreading services India
   description: PhD and MD editors edit and proofread your medical manuscripts at
     the best online editing prices. Charges start from USD 0.018 per word
   keywords:
