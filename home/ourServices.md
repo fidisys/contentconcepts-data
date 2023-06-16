@@ -3,25 +3,27 @@ title: English Editing Services
 services:
   - id: 1
     title: Editing & Proofreading
-    description: Our PhD editors and English language specialists have worked on
-      tons of manuscripts and know exactly what to do with your content. Hence
-      you get a well polished content for publication.
+    description: Our awesome PhD editors and English language pros have worked on
+      loads of manuscripts and know exactly what to do with your content. So
+      you'll get a super polished piece ready for publication.
     image: ../assets/development.svg
     link: /services/academic_editing
     btntext: Know More
   - id: 2
-    title: Thesis Editing & Formatting
-    description: We offer end-to-end support in PhD thesis editing, formatting,
-      dissertation editing, and plagiarism check. If you do not have a lot of
-      time and want to finish theis quickly, talk to us.
+    title: Thesis Editing
+    description: Our thesis editing service ensures your hard work shines like a
+      diamond. We meticulously address grammar, spelling, formatting, and style,
+      leaving no detail untouched. We prioritize confidentiality akin to a spy
+      in a James Bond film.
     image: ../assets/editing.svg
     link: services/academic_editing/thesis_editing
     btntext: Know More
   - id: 3
     title: Plagiarism Check
-    description: Get a detailed plagiarism report, indicating what percentage
-      matches to the other sources. Our plagiarism correction experts can
-      improve the paper and help you fix the writing.
+    description: Our plagiarism checker services deliver comprehensive reports,
+      while our editors assist in reducing similarity through paper rewriting.
+      Collaborating with our manuscript editors, you can address problematic
+      sections, and guarantee the originality of your work.
     image: ../assets/consulting.svg
     link: /services/plagiarism_correction
     btntext: Know More
