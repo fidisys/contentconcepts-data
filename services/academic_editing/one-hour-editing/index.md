@@ -1,6 +1,6 @@
 ---
 navTitle: 1-Hour Editing & Proofreading
-navIndex: 11
+navIndex: 1
 title: 1-Hour Immediate Editing & Proofreading
 highlight: Fast and reliable proofreading in 1 hour
 serviceHeader:
@@ -55,7 +55,6 @@ flashBannerTop:
   quoteTitle: Proofread your paper to perfection
   quoteLink: https://contentconcepts.com/pricing/
   quoteToggle: show
-editingToggle: show
 serviceProcess:
   title: 1-Hour Editing & Proofreading Process
   steps:

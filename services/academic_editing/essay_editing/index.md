@@ -4,10 +4,10 @@ navIndex: 4
 title: Essay Editing
 highlight: Native English & Ivy League Writers
 serviceHeader:
-  decription: "We are one of the best and trusted Essay Editing services in India
-    that excels at transforming your jumbled mess into a polished masterpiece.
-    While we may not guarantee Shakespeare-level brilliance, we'll certainly get
-    your work pretty close! Our skilled essay editors work their magic to:"
+  decription: "We're ContentConcepts, the essay editing service that will take
+    your jumbled mess and turn it into a polished masterpiece that would make
+    Shakespeare proud. Okay, maybe not Shakespeare, but you get the idea! Our
+    essay editors work with their magic  to:"
   serviceLink:
     - title: ""
       link: Enhance clarity and coherence
@@ -46,18 +46,19 @@ serviceProcess:
   steps:
     - id: 1
       order: "01"
-      title: Wordcount
-      description: Enter the wordcount of your document on our Pricing page
+      title: Submit Manuscript
+      description: Customer submits manuscript via our Request for quote page.
       themeColor: "#98ECA6"
     - id: 2
       order: "02"
-      title: Instant Quote
-      description: View quote instantly after entering wordcount or document upload
+      title: Receive Quote
+      description: After receiving the manuscript, ContentConcepts sends price quote.
       themeColor: "#F5DA7D"
     - id: 3
       order: "03"
-      title: Pay & Confirm
-      description: Pay online and get confirmation via email or email us
+      title: Confirm Order
+      description: After payment is made by the customer, ContentConcepts sends
+        confirmation of payment.
       themeColor: "#98E5E0"
     - id: 4
       order: "04"
@@ -156,7 +157,6 @@ editingLevels:
       copy: no
       substantive: no
       developmental: yes
-  toggle: show
 connectToolsTitle: Unlock your essay's potential
 connectToolsDec: "The essay editing service that will take your jumbled mess and
   turn it into a polished masterpiece "
@@ -204,18 +204,17 @@ editingSample:
       title: Copy Editing
       description: Grammatically correct sentences, appropriate use of words and
         terminologies
-      image: screenshot-2023-05-15-at-8.15.41-pm.png
+      image: ./essay_editing_sample_free.png
     - id: 2
       title: Substantive Editing
       description: Line by line editing for language, readibility. Overall structure
         of the paper, tone and section transition.
-      image: screenshot-2023-05-15-at-8.16.09-pm.png
+      image: ./essay_editing_sample.png
     - id: 3
       title: Developmental Editing
       description: Technical review of manuscript by editor + Copy editing,
         substantive editing features
-      image: screenshot-2023-05-15-at-8.16.09-pm.png
-  toggle: show
+      image: ./essay_editing_sample_free.png
 faq:
   title: Frequently Asked Questions
   questions:
@@ -259,7 +258,7 @@ features:
     link: https://contentconcepts.in/services/academic_editing/thesis_editing
 key: essay_editing
 seo:
-  title: Essay editing service in India
+  title: Admission essay editing services in India. Essay editor, Essay editing sample
   description: Essay editing and proofreading services, Essay editor in India at
     affordable prices. One of the best and cheaper essay editing services in
     India.
@@ -270,46 +269,44 @@ seo:
     - admission essay editing
     - admission essay proofreading
 ---
-Are you staring at a blank page, feeling like your brain has taken a vacation without you? Is your essay deadline looming, leaving you unsure of where to start? Fear not, because our essay editing service is at your service!
+Are you staring at a blank page and feeling like your brain has gone on a vacation without you? Is your essay due in a few hours and you're still unsure of how to begin? Fear not, my friend, because our [essay editors](https://contentconcepts.com/about/) have got you covered!
 
-## **Transforming Chaos into Brilliance**
+<br>We're [ContentConcepts](https://contentconcepts.com/about/), the [essay editing service](https://contentconcepts.com/services/academic_editing/essay_editing) that will take your jumbled mess and turn it into a polished masterpiece that would make Shakespeare proud. Okay, maybe not Shakespeare, but you get the idea!
 
-Introducing [ContentConcepts](https://contentconcepts.in/), the [essay editing ](https://contentconcepts.com/services/academic_editing/essay_editing/)service that specializes in turning your jumbled mess into a polished masterpiece. While we can't promise Shakespeare-level genius, we'll certainly get your work pretty close!
+<br>We'll fix all the [grammatical errors](https://contentconcepts.com/services/academic_editing/english_editing), the awkward sentences, and the downright confusing paragraphs. We'll make it flow like a gentle stream on a summer day.
 
-## **Fixing Flaws and Creating a Seamless Flow**
+<br>And don't worry, we won't judge your writing skills. We've all been there, trust us. We'll just fix it up so that it looks like a work of art. So, what are you waiting for? Don't let a messy essay get you down. Let us work our magic and turn it into something that would make your English teacher cry tears of joy.
 
-Our skilled [essay editors](https://contentconcepts.in/blog/manuscript-editors-and-proofreaders/) will tackle grammatical errors, awkward sentences, and confusing paragraphs. We'll transform your essay into a smooth and captivating piece, flowing like a gentle stream on a summer day.
+## So what exactly our essay editors do?
 
-## **No Judgment, Just Improvement**
+<br>
 
-Rest assured, we're not here to judge your writing skills. We understand the struggle all too well. Our aim is to enhance your work and make it shine like a true work of art. So, why wait? Don't let a messy essay bring you down. Let us work our magic and impress both you and your English teacher!
+### Sentence Structure: The Good, the Bad, and the Ugly
 
-## **Our Essay Editing Services in Action**
+Our [Essay Editors](https://contentconcepts.com/about/) can help you improve your sentence structure and word choice, making your essay flow like a pro.
 
-### Sentence Structure: Enhancing Clarity and Expression
+### Consistency is Key (and Not Just in Your Instagram Aesthetic)
 
-Our dedicated essay editors will help you improve sentence structure and word choice, elevating your essay to a professional level of fluency and expression.
+Maintaining consistency in tone and presentation is crucial for a professional-looking essay. But fear not, your editor will make sure that your essay is on brand and on point.
 
-### Consistency is Key: Crafting a Cohesive Presentation
+### Goodbye, Redundancy. Hello, Conciseness
 
-Maintaining consistency in tone and presentation is essential for a polished essay. Our editors will ensure your work remains on-brand and focused, creating a cohesive and impactful piece.
+Let's face it, we all have a tendency to be a bit long-winded. But with the help of an editor, you can eliminate superfluous words and redundancy. Your essay will be concise, powerful, and straight to the point.
 
-### Conciseness is Power: Trimming Excess and Boosting Impact
+### Clarity is King (or Queen, Depending on Your Preference)
 
-We all tend to be a bit long-winded at times. With our editing expertise, you can eliminate unnecessary words and redundancy, resulting in an essay that is concise, powerful, and straight to the point.
+Ambiguous statements and vague language have no place in your college admission essay. But don't worry, your editor will modify any statements that may be unclear or confusing, ensuring that your essay is crystal clear.
 
-### Clarity Reigns: Crafting Crystal Clear Statements
+### Feedback, Feedback, Feedback
 
-Ambiguous statements and vague language have no place in your college admission essay. Our editors will refine your writing, ensuring that your essay communicates your ideas clearly and effectively.
+One of the biggest benefits of using an essay editing service is the feedback you'll receive from your editor. They'll provide comments on issues in the document, giving you valuable insight into how you can improve your writing skills.
 
-### Feedback that Drives Growth: Valuable Insights for Improvement
+### Show, Don't Tell (With Two Versions of Your Essay)
 
-One of the greatest benefits of our essay editing service is the feedback you'll receive from our expert editors. They'll provide valuable comments and suggestions, helping you enhance your writing skills and grow as a writer.
+Two versions of your essay (one showing the changes made and one clean version) will show you exactly how much you've improved.
 
-### Show, Don't Tell: Witness Your Progress
+So what are you waiting for? Get your college essay edited today and impress those admission officers like a boss!
 
-Experience the transformation firsthand with two versions of your essay—one showcasing the changes made and one pristine, clean version. See just how much you've improved through our meticulous editing process.
+<br>
 
-## **Don't Wait, Let Your Essay Shine Today!**
-
-Why wait any longer? Entrust your college essay to our editing expertise and leave a lasting impression on admission officers. Take the first step towards success and let us elevate your essay like a true boss!
+### Our related services
