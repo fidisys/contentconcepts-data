@@ -215,6 +215,7 @@ faq:
       answer: Our highly skilled editors specialize in website content. Comprehensive
         refinement through copy editing and proofreading. Tailored services,
         prompt communication, and support. Your success is our priority!
+  toggle: show
 parentType: business
 priceCard:
   pricing:
