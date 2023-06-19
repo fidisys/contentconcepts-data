@@ -166,7 +166,7 @@ editingLevels:
 connectToolsTitle: Connect your tools, connect your teams
 connectToolsDec: Slack channels are the place for work, Bring your tools to your
   team, save time and avoid context-switching.
-connectToolsToggle: show
+connectToolsToggle: ""
 connectTools:
   - title: Unified and secure
     description: Lorem ipsum dolor sit amet consectetur. Pellentesque cursus
@@ -200,7 +200,7 @@ flashBannerBottom:
   quoteLink: https//www.google.com
   quoteToggle: show
 editingSample:
-  toggle: show
+  toggle: ""
   title: Website Content Sample
   samples:
     - id: 1
@@ -220,36 +220,41 @@ editingSample:
       image: ./substantive_editing.png
 faq:
   toggle: show
-  title: Book Manuscript Editing - FAQ
+  title: Copywriting - FAQ
   questions:
     - id: 1
-      question: How do I get started with book manuscript editing service?
-      answer: You can use the Get Quote form to send the <a href="test"
-        target="_blank">document</a> or email us. Our team will get back to you
-        with quote and other details
+      question: "Why hire a professional copywriter? "
+      answer: We're the royal flush of wordsmiths, crafting irresistible copy that
+        grabs attention, stirs emotions, and compels action. Stack the deck in
+        your favor and attract those coveted customers.
     - id: 2
-      question: Do you provide free sample editing for my manuscript?
-      answer: " Yes, if your book manuscript is longer than 20,000 words, you will get
-        free sample edit of approximately 300 words. This sample edit gives you
-        an idea of the book manuscript editor’s and English editor’s editing
-        style "
+      question: "How can copywriting benefit my business? "
+      answer: Our expert copywriting can make your business shine like a disco ball in
+        a dimly lit room. Captivate your audience, boost your brand, and
+        skyrocket your sales. Get ready to be the talk of the town!
     - id: 3
-      question: How do I choose the editing level for my manuscript? How do you decide?
-      answer: We offer three levels of editing - Proofreading & Copy Editing,
-        Substantive Editing and Plagiarism Editing. All are explained on each
-        service page and Pricing page.When you send your manuscript to us, we
-        can check and advise you on the level of editing required.
+      question: What sets your copywriters apart?
+      answer: Our copywriters are like Olympic gymnasts, flipping and twisting words
+        to create mind-blowing content. They'll deliver copy that leaves your
+        competition in the dust. It's copywriting gold, my friend!
     - id: 4
-      question: Is my book manuscript secure with you?
-      answer: Absolutely. Our site is built with superior & latest technologies and is
-        most secure. Moreover, we have been in this field for over 15 years
-        offering secure services without any glitches so far
+      question: Do you handle different types of projects?
+      answer: We're versatile as a chameleon at a color convention. From captivating
+        websites to persuasive sales pages, engaging blog posts, and
+        attention-grabbing social media content, we've got you covered. No
+        project is too big or small!
     - id: 5
-      question: How do I make payment for Website Content? Is your website safe for
-        making online payment?
-      answer: Our payment is handled by banks and PayPal, so we would say it's 100%
-        safe. We do not keep any payment details and is directly done by bank's
-        payment gateway.
+      question: How do you match my brand's voice?
+      answer: Our skilled wordsmiths have a sixth sense for capturing your brand's
+        unique voice. We'll dive deep into understanding your brand, crafting
+        copy that sings in perfect harmony. It's a match made in copywriting
+        heaven!
+    - id: 6
+      question: "Can you work with tight deadlines? "
+      answer: We thrive under pressure, like a caffeinated cheetah chasing its prey.
+        Just let us know your timeline, and we'll deliver top-notch copy that
+        hits the mark, no matter how tight the deadline. Let's unleash the power
+        of words together!
 key: book_editing
 parentType: academic
 features:
@@ -264,19 +269,42 @@ features:
   - id: 5
     title: Suggesting, illustrations and artwork
 seo:
-  title: Book manuscript editing and proofreading services in India.
-  description: Book manuscript editing and proofreading services in India starts
-    at INR 1. One of the most trusted and affordable services online
+  title: Copywriting India. Professional copywriting service
+  description: Content development and copywriting services at affordable prices.
   keywords:
-    - Website Content services
-    - book proofreading service
-    - Website Content services in India
-    - book proofreading services in India
-    - Website Content services
-    - book proofreading services
+    - copywriting
+    - copywriter
+    - website content development
+    - content writer
 ---
-Our copy connect with people and Google - Yes, we write not only for people but also for Google algorithms to rank your content higher.
+Our copy connects with people and Google - Yes, we write not only for people but also for Google algorithms to rank your content higher.
 
 And we do it all at an affordable price. Whether you need web copy, blog posts, email copy, social media posts, ad copy, video scripts, or any other type of content, we can handle it. We have a team of talented and experienced copywriters who can write on any topic and industry.
 
 So don't settle for boring, bland, or copied copy. Get ContentConcepts and get the best copywriting service in town. Contact us today and get a free quote and a free sample of our work. You'll be glad you did.
+
+### 1. Why should I hire a professional copywriter?
+
+ Well, friend, imagine your website is a dazzling, high-stakes poker game. You want to go all-in and attract those coveted customers, right? That's where a professional copywriter comes in. We're the royal flush of wordsmiths, crafting irresistible copy that grabs attention, stirs emotions, and compels people to take action. Trust us, you'll want to stack the deck in your favor.
+
+### 2. How can professional copywriting benefit my business?
+
+Picture this: you're at a crowded party, trying to make an impression. You want to be the life of the party, the center of attention. Our expert copywriting can make your business shine like a disco ball in a dimly lit room. We'll use the power of words to captivate your audience, boost your brand, and skyrocket your sales. Get ready to be the talk of the town!
+
+### 3. What makes your copywriters stand out from the crowd?
+
+Ah, great question! Our copywriters are not your average scribes. They're like Olympic gymnasts, effortlessly flipping and twisting words to create mind-blowing content. With their superhuman ability to understand your brand, connect with your audience, and weave magic with their keyboards, they'll deliver copy that leaves your competition in the dust. It's copywriting gold, my friend!
+
+### 4. Can you handle different types of copywriting projects?
+
+Absolutely! We're as versatile as a chameleon at a color convention. Whether you need captivating website copy, persuasive sales pages, engaging blog posts, attention-grabbing social media content, or any other type of written wizardry, we've got you covered. Consider us your one-stop-shop for all your copywriting needs. No project is too big or too small!
+
+### 5. How do you ensure the copy matches my brand's voice?
+
+Ah, the holy grail of copywriting! Our team of skilled wordsmiths has a sixth sense for capturing your brand's unique voice. It's like they have a direct hotline to your company's soul. We'll dive deep into understanding your brand, its values, and its personality. Then, armed with this knowledge, we'll craft copy that sings in perfect harmony with your brand's voice. It's a match made in copywriting heaven!
+
+### 6. Can you work with tight deadlines?
+
+You bet! We thrive under pressure, like a caffeinated cheetah chasing its prey. Tight deadlines are our bread and butter. Just let us know your timeline, and we'll work our magic to deliver top-notch copy that hits the mark, even if we have to pull an all-nighter. We're here to make your copywriting dreams come true, no matter how tight the deadline may be!
+
+Got more burning questions? Reach out to us, and our friendly team will be delighted to assist you. Let's unleash the power of words together!
