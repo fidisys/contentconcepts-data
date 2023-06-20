@@ -61,18 +61,18 @@ serviceProcess:
   steps:
     - id: 1
       order: "01"
-      title: Submit Manuscript
-      description: Submit manuscript via our Request for quote page.
+      title: Enter Wordcount
+      description: Enter the wordcount of your document on our Pricing page
       themeColor: "#98ECA6"
     - id: 2
       order: "02"
-      title: Receive Quote
-      description: After receiving the manuscript, ContentConcepts sends price quote.
+      title: Instant Quote
+      description: View quote instantly after entering wordcount or document upload
       themeColor: "#F5DA7D"
     - id: 3
       order: "03"
-      title: Confirm Order
-      description: After you make the payment we will  send confirmation of the payment.
+      title: Pay & Confirm
+      description: Pay online and get confirmation via email
       themeColor: "#98E5E0"
     - id: 4
       order: "04"
