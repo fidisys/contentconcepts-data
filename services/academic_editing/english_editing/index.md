@@ -13,15 +13,15 @@ serviceHeader:
   serviceLink:
     - title: ""
       link: <a
-        href="https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Affordable
+        href="https://contentconcepts.in/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Affordable
         English language editing service</a>
     - title: ""
       link: <a
-        href="https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated
+        href="https://contentconcepts.in/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated
         English editing service on Google - 4.9</a>
     - title: ""
       link: <a
-        href="https://contentconcepts.com/blog/free-english-editing-certificate/">Free
+        href="https://contentconcepts.in/blog/free-english-editing-certificate/">Free
         editing Certificate</a>
 btnTxt:
   quote: Get Instant Quote
