@@ -177,35 +177,69 @@ faq:
   title: Content Writing - FAQ
   questions:
     - id: 1
-      question: What type of manuscripts do you edit in Content Writing?
-      answer: We edit all types of academic documents across all subject areas. We
-        have editors for all subjects across the US, UK and India for better
-        availability
+      question: "Q: What types of content can you handle?"
+      answer: We can handle it all! From captivating blog articles that sweep readers
+        off their feet to punchy social media posts that make waves in the
+        digital ocean. Whether you need web copy that sparkles like a disco ball
+        or case studies that showcase your triumphs, we've got you covered.
     - id: 2
-      question: Is my manuscript and research paper secure with you?
-      answer: Absolutely. Our site is built with superior & latest technologies and is
-        most secure. Moreover, we have been in this field for over 15 years
-        offering secure services without any glitches so far
+      question: Can you tackle complex topics?
+      answer: Absolutely! We love sinking our teeth into the juiciest of subjects.
+        From the intricate workings of quantum physics to the mind-bending world
+        of blockchain technology, our wordsmiths have the superpower to unravel
+        complexity and make it digestible for any audience.
     - id: 3
-      question: "What is the academic editing process? "
-      answer: Please refer to the section "How Content Writing works?"
+      question: How do you create awesome content?
+      answer: It's like a carefully choreographed dance routine. We start by listening
+        to your dreams and goals, then we hit the research floor like detectives
+        on a hot case. Armed with knowledge, we craft a dazzling content plan
+        and let our fingers glide across the keyboard, weaving words into a
+        masterpiece that will make your heart skip a beat.
     - id: 4
-      question: How do I know which level of editing is right for my manuscript?
-      answer: We offer three levels of editing - Proofreading & Copy Editing,
-        Substantive Editing and Plagiarism Editing. All are explained on each
-        service page and Pricing page.When you send your manuscript to us, we
-        can check and advise you on the level of editing required.
+      question: Can you make my content rock the search engines?
+      answer: Absolutely! We're the SEO whisperers who sprinkle magic keywords and
+        secret spells to summon search engine love. Our words are like magnets,
+        attracting the attention of those elusive search algorithms and
+        propelling your content to the top of the ranks.
     - id: 5
-      question: Can I get a free sample editing for my academic manuscript?
-      answer: Yes, if your academic manuscript is longer than 20,000 words, you will
-        get free sample edit of approximately 500 words. This sample edit gives
-        you an idea of the academic editor’s editing style and a chance to ask
-        questions and give feedback.
+      question: How do you keep the tone and style consistent?
+      answer: We're like chameleons with typewriters, adapting to your brand's unique
+        personality. We soak up your style guide like a sponge and infuse it
+        into every word we write. The result? Content that's as smooth as silk,
+        as vibrant as a rainbow, and as consistent as your favorite guilty
+        pleasure TV show.
     - id: 6
-      question: What is the editing fee for academic manuscripts?
-      answer: Our academic manuscript editing price is based on total the word count
-        of your academic manuscript and the required level of editing. Please
-        check our academic editing Pricing page for more details.
+      question: Can you handle tight deadlines and big projects?
+      answer: Absolutely! We thrive on adrenaline and have a ninja-like focus when it
+        comes to tight deadlines. Our team knows how to tame the clock and
+        deliver awe-inspiring content on time, every time. So bring on the
+        challenges, we'll conquer them with a wink and a pen.
+    - id: 7
+      question: How do you ensure content quality and accuracy?
+      answer: We're the grammar police, the punctuation ninjas, and the masters of
+        impeccable prose. Our words undergo a rigorous boot camp, where they are
+        whipped into shape and polished until they shine brighter than a
+        supernova. We leave no stone unturned, no typo uncorrected, and no
+        boring sentence unpunished.
+    - id: 8
+      question: Can you jazz up my existing content?
+      answer: Absolutely! We'll sprinkle some fairy dust on your words and transform
+        them into a captivating symphony. Our editing wizards will breathe new
+        life into your content, making it sing, dance, and mesmerize your
+        readers. It's like giving your content a red-carpet makeover!
+    - id: 9
+      question: How do you capture the hearts of our target audience?
+      answer: We're mind readers, emotion whisperers, and storytellers extraordinaire.
+        We dive deep into the minds of your audience, understanding their
+        desires, fears, and secret wishes. Armed with this knowledge, we craft
+        content that speaks directly to their hearts, forming an unbreakable
+        bond that keeps them coming back for more.
+    - id: 10
+      question: Can we see some of your enchanting work?
+      answer: Absolutely! We'll show you the wonders we've conjured up for our
+        clients. Get ready to be spellbound by our captivating blog articles,
+        bewitching website copy, and enchanting social media posts. Just give us
+        a shout, and we'll unveil our magical portfolio for your eyes only.
 parentType: technical
 priceCard:
   pricing:
@@ -261,7 +295,19 @@ At our content writing service, we understand the power of effective communicati
 
 ### Q: What types of content do you specialize in?
 
-A: We specialize in a wide range of content types, including blog articles, website copy, social media posts, product descriptions, press releases, case studies, and more. We have the expertise to create engaging and tailored content for various industries and purposes.
+A: We specialize in a wide range of content types, including blog articles, website copy, social media posts, product descriptions, press releases, case studies, and more. We have the expertise to create engaging and tailored content for various industries and purposes. Here is a list of our other services:
+
+##### Content Writing
+
+* [Copywriting Services](https://contentconcepts.in/services/content_writing/website_content/)
+* [White Paper](https://contentconcepts.in/services/content_writing/white_paper/)
+* [Case Study](https://contentconcepts.in/services/content_writing/case_study/)
+* [Report Writing](https://contentconcepts.in/services/content_writing/report_writing/)
+* [Sales Copy](https://contentconcepts.in/services/content_writing/sales_copy/)
+* [](https://contentconcepts.in/services/content_writing/copy_writing/)[Content Strategy](https://contentconcepts.in/services/content_writing/content_strategy/)
+* [Brand Consulting](https://contentconcepts.in/services/content_writing/brand_consulting/)[](https://contentconcepts.in/services/content_writing/)
+
+[](https://contentconcepts.in/services/content_writing/)
 
 ### Q: Can you handle specialized or technical topics?
 
