@@ -195,7 +195,10 @@ connectTools:
       venenatis neque tellus duis erat amet id praesent. Consequat integer
       consectetur urna cras egestas elit mi neque pellentesque.
     image: ./connect_img3.svg
-editingCard: []
+editingCard:
+  - title: Meticulous Editing for Captivating Prose
+    backgroundColor: " #872657 "
+    image: service_card.png
 message: Not happy with edit? <span>100% refund without any condition</span>
 cardImage: ./blog_image.png
 flashBannerBottom:
@@ -278,5 +281,26 @@ seo:
     - Book editing services
     - book proofreading services
 ---
+## Embark on an Incredible Editing Journey
 
-ContentConcepts specializes in editing and proofreading science, technology, business and non-fiction book manuscripts. Editing a book manuscript is an art. It's more than just grammar and correct usage of words. We have exclusive editors for book manuscripts who have experience in editing more than 1000 book manuscripts. Our manuscript editing combines copy editing and developmental editing by:
+Ready to transform your manuscript into a literary masterpiece? Look no further! Our team of skilled editors, armed with the magic of words, is here to help you embark on an incredible editing journey.
+
+## Meticulous Editing for Captivating Prose
+
+Imagine having expert editors by your side, polishing your manuscript with the finesse of a seasoned maestro. They will meticulously unravel any grammatical knots and breathe life into your sentences, ensuring your words flow effortlessly like a captivating melody.
+
+## Infusing Charm and Humor for Engaging Reads
+
+But wait, there's more! Our services not only provide professionalism, but we also infuse a dash of humor and captivating charm to keep your readers hooked. We understand the emotional connection you have with your book, and we want to bring it to life, making your readers laugh, cry, and experience a whirlwind of emotions.
+
+## Native English Editors for a Flawless Finish
+
+With our native English editors, your manuscript will shine like a diamond. They possess a keen eye for detail, leaving no room for errors or misplaced punctuation marks. Their expertise will elevate your writing to new heights, captivating your audience with every page.
+
+## Affordable Services for Writers on a Budget
+
+And here's the best part: our services are affordable, making quality editing accessible to writers like you. We believe that every writer deserves a chance to shine, and we're here to make that happen without breaking the bank.
+
+## Let's Propel Your Writing to Greatness
+
+So, why settle for anything less than extraordinary? Let our Book Manuscript Editing Service be the catalyst that propels your writing to greatness. Get in touch with us today and witness the transformative power of professional editing.
