@@ -13,6 +13,7 @@ serviceHeader:
     lasting impression. Experience the transformative power of exceptional
     content—let us elevate your brand's presence, engage your audience, and
     drive meaningful results through the artistry of words.
+  serviceLink: []
 btnTxt:
   editing: How it works?
 editorSecTitle: Our Expert Copywriters
@@ -150,7 +151,9 @@ editingCard:
   - title: Experience the transformative power of exceptional content
     backgroundColor: " #872657 "
     image: content_story_tell.jpeg
-message: Not happy with edit? <span>100% refund without any condition</span>
+message: What next? <span><a
+  href="https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Affordable
+  English language editing service</a></span>
 cardImage: content_story_tell.jpeg
 flashBannerBottom:
   quoteTitle: Cut through the clutter to leave a lasting impression!
