@@ -32,28 +32,25 @@ btnTxt:
   quote: Get Quote
   sample: Check Sample
   editing: Editing Process
-editorSecTitle: Manuscript Editors & Native English Editors
+editorSecTitle: Website Content Writers
 nativeEditorSecToggle: show
 editorSecCards:
-  - image: ./userAvatar.png
-    name: Victor Rice
-    designation: Customer Engagement Manager CADD Centre
-    description: Lorem ipsum dolor sit amet, <a href=""
-      target="_blank">consectetur</a> adipiscing elit. Nunc pretium scelerisque
-      neque amet consectetur adipiscing elit. Nunc pretium scelerisque neque
-      amet
-  - image: ./userAvatar.png
-    name: Victor Rice
-    designation: Customer Engagement Manager CADD Centre
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-      pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium
-      scelerisque neque amet
-  - image: ./userAvatar.png
-    name: Victor Rice
-    designation: Customer Engagement Manager CADD Centre
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-      pretium scelerisque neque amet consectetur adipiscing elit. Nunc pretium
-      scelerisque neque amet
+  - image: anita_copy_editor.jpeg
+    name: Anita
+    designation: Website Content Writer
+    description: With more than 15 years of experience in writing and editing
+      website copy, Anita has a keen eye for detail, and possess a proven track
+      record in refining website content to perfection. Armed with a degree in
+      English and Communications Anita’s expertise in editing and proofreading
+      ensures clarity, coherence, and accuracy.
+  - image: jan_website_editor.jpeg
+    name: "Jan Roberts "
+    designation: Website Copywriter
+    description: Jan is a a professional copywriter with 9 years of experience. Jan
+      excels in creating high-quality, SEO-optimized content that captivates and
+      persuades. Let Jan showcase your content in the best possible light. She
+      graduated with high honors from The University of California SB with a BA
+      in English, a minor in French, and three specializations
 flashBannerTop:
   quoteTitle: Professional English Editing for any Research Paper
   quoteLink: https//www.google.com
