@@ -205,7 +205,7 @@ connectTools:
     image: ./connect_img3.svg
 editingCard: []
 message: Not happy with edit? <span>100% refund without any condition</span>
-cardImage: ./blog_image.png
+cardImage: copywriting-service.jpg
 flashBannerBottom:
   quoteTitle: Professional English Editing for any Research Paper
   quoteLink: https//www.google.com
