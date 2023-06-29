@@ -259,6 +259,7 @@ faq:
         clients. Get ready to be spellbound by our captivating blog articles,
         bewitching website copy, and enchanting social media posts. Just give us
         a shout, and we'll unveil our magical portfolio for your eyes only.
+  toggle: show
 parentType: technical
 priceCard:
   pricing:
