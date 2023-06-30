@@ -270,7 +270,9 @@ features:
     title: Suggesting, illustrations and artwork
 seo:
   title: Copywriting India. Professional copywriting service
-  description: Content development and copywriting services at affordable prices.
+  description: Unlock the power of persuasive and engaging copywriting services to
+    captivate your audience and elevate your brand. Experience the magic of
+    expertly crafted content that drives results.
   keywords:
     - copywriting
     - copywriter
