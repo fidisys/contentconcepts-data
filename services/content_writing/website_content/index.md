@@ -23,7 +23,7 @@ btnTxt:
   quote: Get Quote
   sample: Check Sample
   editing: Editing Process
-editorSecTitle: Manuscript Editors & Native English Editors
+editorSecTitle: Our Expert Copywriters
 nativeEditorSecToggle: show
 editorSecCards:
   - image: anita_copy_editor.jpeg
@@ -196,8 +196,8 @@ editingCard:
 message: Not happy with edit? <span>100% refund without any condition</span>
 cardImage: copywriting-service.jpg
 flashBannerBottom:
-  quoteTitle: Professional English Editing for any Research Paper
-  quoteLink: https//www.google.com
+  quoteTitle: Copywriting for People and Google
+  quoteLink: https://contentconcepts.in/contact/
   quoteToggle: show
 editingSample:
   toggle: ""
