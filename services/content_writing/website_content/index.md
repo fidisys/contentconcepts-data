@@ -2,7 +2,7 @@
 navTitle: Copywriting Services
 navIndex: 1
 title: "Copywriting "
-highlight: "For Website, Sales & Marketing "
+highlight: Take our word.
 serviceHeader:
   decription: You don't want to sound like everyone else. You want to sound like
     yourself. You want to sound unique, original, and authentic. That’s why you
@@ -23,7 +23,7 @@ btnTxt:
   quote: Get Quote
   sample: Check Sample
   editing: Editing Process
-editorSecTitle: Manuscript Editors & Native English Editors
+editorSecTitle: Our Expert Copywriters
 nativeEditorSecToggle: show
 editorSecCards:
   - image: anita_copy_editor.jpeg
@@ -196,8 +196,8 @@ editingCard:
 message: Not happy with edit? <span>100% refund without any condition</span>
 cardImage: copywriting-service.jpg
 flashBannerBottom:
-  quoteTitle: Professional English Editing for any Research Paper
-  quoteLink: https//www.google.com
+  quoteTitle: Copywriting for People and Google
+  quoteLink: https://contentconcepts.in/contact/
   quoteToggle: show
 editingSample:
   toggle: ""
@@ -270,7 +270,9 @@ features:
     title: Suggesting, illustrations and artwork
 seo:
   title: Copywriting India. Professional copywriting service
-  description: Content development and copywriting services at affordable prices.
+  description: Unlock the power of persuasive and engaging copywriting services to
+    captivate your audience and elevate your brand. Experience the magic of
+    expertly crafted content that drives results.
   keywords:
     - copywriting
     - copywriter
