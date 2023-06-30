@@ -2,7 +2,7 @@
 navTitle: Copywriting Services
 navIndex: 1
 title: "Copywriting "
-highlight: "For Website, Sales & Marketing "
+highlight: Take our word.
 serviceHeader:
   decription: You don't want to sound like everyone else. You want to sound like
     yourself. You want to sound unique, original, and authentic. That’s why you
