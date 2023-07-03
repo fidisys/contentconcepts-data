@@ -1,6 +1,6 @@
 ---
 title: Pricing
-heading: Best English Editing Services, Truly Affordable @ $0.021 per word
+heading: Best English Editing Services, Truly Affordable @ ₹ 1.3 per word
 subHeading: Our manuscript editing and proofreading price is highly competitive
   and budget-friendly, catering to both authors and students. No additional
   express fee is imposed. Rest assured, our payment gateway is securely managed
