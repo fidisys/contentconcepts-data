@@ -168,7 +168,7 @@ connectToolsToggle: ""
 connectTools: []
 editingCard:
   - image: ./service_card.png
-    title: Lorem ipsum dolor sit amet consectetur. Odio malesuada eu fames dictum.
+    title: Content that Captivates, Strategies that Succeed
     buttonLink: www.google.com
     backgroundColor: "#1C55BE"
     bulletpoints: []
