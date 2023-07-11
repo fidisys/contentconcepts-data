@@ -2,12 +2,14 @@
 navTitle: Manuscript Editing
 navIndex: 1
 title: Manuscript Editing
-highlight: " Our #1 selling service @ $0.021 per word"
+highlight: " Our #1 selling service @ INR 1.3 per word"
 serviceHeader:
   decription: "Manuscript editing is like conducting a science experiment on your
     writing. We'll mix in the perfect balance of clarity, conciseness, and
     academic jargon to create a winning formula. With our affordable and trusted
-    manuscript editing service, your research paper will shine brighter than a
+    manuscript editing service and <a
+    href=\"https://contentconcepts.in/blog/manuscript-editors-and-proofreaders/\
+    \">manuscript editors</a>, your research paper will shine brighter than a
     diamond. And here are few more reasons to choose us:"
   serviceLink:
     - title: ""
@@ -264,6 +266,7 @@ faq:
       question: Do you offer refund if I am not satisfied with your work?
       answer: Yes, we provide 100% refund if you have valid reasons and if the
         document is edited badly.
+  toggle: show
 priceCard:
   pricing:
     title: Starts from
