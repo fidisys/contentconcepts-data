@@ -285,10 +285,11 @@ features:
     link: /services/academic_editing/resume_editing
 key: academic_editing
 seo:
-  title: Scientific manuscript editing service in India.  Why pay in dollar when
-    you can pay in rupee?
-  description: Scientific manuscript editing and proofreading services in India at
-    affordable prices.
+  title: "Top Rated Academic Editing Service 4.9 rating! "
+  description: Our Academic Editing Service enhances the quality and clarity of
+    your research papers, ensuring impeccable grammar, style, and structure.
+    Elevate your academic work to new heights with our expert editing
+    assistance.
   keywords:
     - English editing service
     - scientific editing service
