@@ -1,5 +1,5 @@
 ---
-title: International Proofreading & Editing Service for
+title: International Proofreading & Editing Service fo
 typedWords:
   - Manuscript $0.02/word
   - Thesis $0.02/word
@@ -14,6 +14,6 @@ services:
     title: Editing Certificate
     link: blog/free-english-editing-certificate/
   - id: 3
-    title: Free Editing
-    link: blog/free-editing-proofreading-on-first-200-words/
+    title: Our Editors
+    link: https://blog.contentconcepts.com/our-manuscript-editorsscientific-editors-proofreaders
 ---
