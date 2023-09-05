@@ -26,7 +26,7 @@ types:
           - Correct usage of words
           - Ensure clarity & proper structure and flow
           - Grammar & spell check
-          - Certificate
+          - Editing Certificate
           - 2-3 days
         price:
           inr: "₹ <span>1.60</span>/word "
