@@ -1,7 +1,7 @@
 ---
 navTitle: Proofreading Service
 navIndex: 8
-title: Proofreading Services
+title: Proofreading Service
 highlight: Native English, Best price, no rush fee
 serviceHeader:
   decription: "Proofreading is like having a second set of eyes on your work -
@@ -15,11 +15,11 @@ serviceHeader:
     - title: ""
       link: <a
         href="https://contentconcepts.com/blog/how-much-does-manuscript-editing-cost-per-page-per-word/">Affordable
-        proofreading services</a>
+        proofreading services in India</a>
     - title: ""
       link: <a
         href="https://contentconcepts.com/blog/contentconcepts-top-rated-academic-editing-and-proofreading-services/">Top-rated
-        proofreading service on Google - 4.9</a>
+        proofreading service in India on Google - 4.9</a>
     - title: ""
       link: <a
         href="https://contentconcepts.com/blog/free-english-editing-certificate/">Free
@@ -99,6 +99,7 @@ editingHighlights:
       title: Editing Certificate
       description: Get free English editing certificate with your job when completed
       image: ./transaction.svg
+  toggle: show
 flashBannerCenter:
   quoteTitle: Get the most affordable proofreading service
   quoteLink: https://contentconcepts.com/pricing/
@@ -165,12 +166,13 @@ editingLevels:
       substantive: no
       developmental: yes
 connectToolsTitle: Reasons to go with our proofreading service
-connectToolsDec: Affordable, trusted and the best proofreading service you can get online
+connectToolsDec: "Affordable, trusted and the best proofreading service you can
+  get online in India. "
 connectToolsToggle: show
 connectTools:
   - title: Native English Editors
-    description: Does your journal insist on native English editor? We have got you
-      covered. Our editors work on British English and US English
+    description: "Does your journal insist on native English editor? We have got you
+      covered. Our editors work on British English and US English "
     image: support.svg
   - title: Editing Certificate
     description: We provide a free editing certificate with each order, guaranteeing
@@ -192,25 +194,6 @@ editingCard:
     editingCardLinks:
       - title: Sub link
         description: Sublin
-features:
-  - id: 1
-    title: Manuscript Editing
-    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
-  - id: 2
-    title: Thesis Proofreading
-    link: https://contentconcepts.in/services/academic_editing/thesis_editing
-  - id: 3
-    title: English Language Proofreading
-    link: https://contentconcepts.in/services/academic_editing/english_editing
-  - id: 4
-    title: Scientific Manuscript Editing
-    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
-  - id: 5
-    title: Plagiarism Checker
-    link: https://contentconcepts.in/services/plagiarism_correction
-  - title: Manuscript Rewriting
-    id: 6
-    link: https://contentconcepts.in/services/publication_support/manuscript_rewriting
 message: Not happy with proofreading? <span>100% refund without any condition</span>
 cardImage: proofreading_services.jpeg
 flashBannerBottom:
@@ -251,7 +234,6 @@ faq:
       question: Is my information secure with you?
       answer: "Yes, our website is secure in handling documents as well as for
         payment. Our editors and proofreaders have signed NDA. "
-key: resume_editing
 parentType: academic
 priceCard:
   pricing:
@@ -261,10 +243,29 @@ priceCard:
       usd: <span>₹1.30</span>/word
   tagContent: ASK FOR FREE PROOFREADING SAMPLE
   content: Get English editing certificate after the job.
+features:
+  - id: 1
+    title: Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/manuscript_editing
+  - id: 2
+    title: Thesis Proofreading
+    link: https://contentconcepts.in/services/academic_editing/thesis_editing
+  - id: 3
+    title: English Language Proofreading
+    link: https://contentconcepts.in/services/academic_editing/english_editing
+  - id: 4
+    title: Scientific Manuscript Editing
+    link: https://contentconcepts.in/services/academic_editing/scientific_manuscript_editing
+  - id: 5
+    title: Plagiarism Checker
+    link: https://contentconcepts.in/services/plagiarism_correction
+  - title: Manuscript Rewriting
+    id: 6
+    link: https://contentconcepts.in/services/publication_support/manuscript_rewriting
+key: resume_editing
 seo:
-  title: Proofreading services, best price, top rated online 4.8/5, Price starts
-    $0.018 per word
-  description: Manuscript proof reading service by PhD and native English
+  title: Best proofreading service in India. Top rated 4.9 on Google
+  description: Manuscript proofreading service by PhD and native English
     proofreaders. Proof reading charges start at INR 1.3 (USD 0.020) per word
   keywords:
     - Proofreading services
