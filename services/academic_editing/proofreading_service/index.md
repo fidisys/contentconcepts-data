@@ -99,6 +99,7 @@ editingHighlights:
       title: Editing Certificate
       description: Get free English editing certificate with your job when completed
       image: ./transaction.svg
+  toggle: show
 flashBannerCenter:
   quoteTitle: Get the most affordable proofreading service
   quoteLink: https://contentconcepts.com/pricing/
@@ -165,12 +166,13 @@ editingLevels:
       substantive: no
       developmental: yes
 connectToolsTitle: Reasons to go with our proofreading service
-connectToolsDec: Affordable, trusted and the best proofreading service you can get online
+connectToolsDec: "Affordable, trusted and the best proofreading service you can
+  get online in India. "
 connectToolsToggle: show
 connectTools:
   - title: Native English Editors
-    description: Does your journal insist on native English editor? We have got you
-      covered. Our editors work on British English and US English
+    description: "Does your journal insist on native English editor? We have got you
+      covered. Our editors work on British English and US English "
     image: support.svg
   - title: Editing Certificate
     description: We provide a free editing certificate with each order, guaranteeing
