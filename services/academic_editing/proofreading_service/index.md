@@ -2,15 +2,16 @@
 navTitle: Proofreading Service
 navIndex: 8
 title: Proofreading Service
-highlight: Native English, Best price, no rush fee
+highlight: India's best and top rated by customers
 serviceHeader:
-  decription: "Proofreading is like having a second set of eyes on your work -
-    except this time, they're sober. Without it, your writing can look like it
-    was done by a sleep-deprived monkey banging on a keyboard. So, let's avoid
-    embarrassing mistakes like “let’s eat grandma” instead of “let’s eat,
-    grandma.” With our affordable and trusted proofreading service, your
-    documents will shine brighter than a diamond. And here are few more reasons
-    to choose us:"
+  decription: "India's most affordable proofreading services with best quality by
+    native English proofreaders and editors. Proofreading is like having a
+    second set of eyes on your work - except this time, they're sober. Without
+    it, your writing can look like it was done by a sleep-deprived monkey
+    banging on a keyboard. So, let's avoid embarrassing mistakes like “let’s eat
+    grandma” instead of “let’s eat, grandma.” With our affordable and trusted
+    proofreading service, your documents will shine brighter than a diamond. And
+    here are few more reasons to choose us:"
   serviceLink:
     - title: ""
       link: <a
@@ -28,7 +29,7 @@ editorSecTitle: Our Native English Proofreaders
 nativeEditorSecToggle: show
 editorSecCards:
   - name: Ross Taylor
-    designation: Native English & Manuscript Proofreader
+    designation: "Native English & Manuscript Proofreader "
     description: David is a skilled native English editor with a background in
       linguistics and engineering. He specializes in science, medical, and
       technology manuscripts and has a certification in teaching English as a
@@ -50,9 +51,10 @@ editorSecCards:
       of North Carolina.
     image: carole_medical_editor.jpeg
 flashBannerTop:
-  quoteTitle: Proofread and polish your document to perfection!
+  quoteTitle: India's best and affordable proofreading service!
   quoteToggle: show
   quoteLink: https://contentconcepts.com/pricing/
+editingToggle: ""
 serviceProcess:
   title: How Proofreading service works?
   steps:
@@ -165,7 +167,7 @@ editingLevels:
       copy: no
       substantive: no
       developmental: yes
-connectToolsTitle: Reasons to go with our proofreading service
+connectToolsTitle: Reasons to choose the top proofreading service in India
 connectToolsDec: "Affordable, trusted and the best proofreading service you can
   get online in India. "
 connectToolsToggle: show
@@ -264,11 +266,11 @@ features:
     link: https://contentconcepts.in/services/publication_support/manuscript_rewriting
 key: resume_editing
 seo:
-  title: Best proofreading service in India. Top rated 4.9 on Google
+  title: Best proofreading services in India. Top rated 4.9 on Google
   description: Manuscript proofreading service by PhD and native English
     proofreaders. Proof reading charges start at INR 1.3 (USD 0.020) per word
   keywords:
-    - Proofreading services
+    - Proofreading services india
     - English proof reading
     - proof reading price
     - proofreading onlineproofreading
