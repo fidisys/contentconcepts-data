@@ -4,14 +4,13 @@ navIndex: 8
 title: Proofreading Service
 highlight: India's best and top rated by customers
 serviceHeader:
-  decription: "India's most affordable proofreading services with best quality by
-    native English proofreaders and editors. Proofreading is like having a
-    second set of eyes on your work - except this time, they're sober. Without
-    it, your writing can look like it was done by a sleep-deprived monkey
-    banging on a keyboard. So, let's avoid embarrassing mistakes like “let’s eat
-    grandma” instead of “let’s eat, grandma.” With our affordable and trusted
-    proofreading service, your documents will shine brighter than a diamond. And
-    here are few more reasons to choose us:"
+  decription: "Best proofreading services in India with affordable price.
+    Proofreading is like having a second set of eyes on your work - except this
+    time, they're sober. Without it, your writing can look like it was done by a
+    sleep-deprived monkey banging on a keyboard. So, let's avoid embarrassing
+    mistakes like “let’s eat grandma” instead of “let’s eat, grandma.” With our
+    affordable and trusted proofreading service, your documents will shine
+    brighter than a diamond. And here are few more reasons to choose us:"
   serviceLink:
     - title: ""
       link: <a
