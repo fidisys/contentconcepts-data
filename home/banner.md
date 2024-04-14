@@ -1,5 +1,5 @@
 ---
-title: India's Best 4.9 Rated Proofreading & Editing Service for
+title: India's Best Rated Proofreading & Editing Service for
 typedWords:
   - Manuscript $0.02/word
   - Research Paper $0.02/word
