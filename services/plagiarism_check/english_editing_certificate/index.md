@@ -143,9 +143,9 @@ An [English Editing Certificate](https://contentconcepts.com/blog/english-langua
 
 ![English Editing Certificate Sample](english-editing-certificate.png "English Editing Certificate Sample").  
 
-1. **What is the purpose of an editing certificate?**\ 
+1. **What is the purpose of an editing certificate?** 
    An editing certificate serves as proof of professional English language editing, enhancing the credibility of your academic work.
-2. **What does an English editing certificate certify?** \
+2. **What does an English editing certificate certify?** 
    Our certificate certifies that your document has been meticulously edited to the highest standards by ContentConcepts' expert editors.
 3. **How can I obtain a certificate of editing from ContentConcepts?** Simply submit your document for our editing services, and we'll provide a free English Editing Certificate.
 4. **What information is included in the editing certificate provided by ContentConcepts?** The certificate includes the paper title, authors, a declaration from our Chief Editor, editing date, and a QR code for validation.
